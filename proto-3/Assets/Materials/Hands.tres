@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://4fdj2afscd0t"]
+
+[ext_resource type="Texture2D" uid="uid://od54b3m0bd6y" path="res://Assets/Textures/rabbit ski mask.webp" id="1_2why8"]
+
+[resource]
+shading_mode = 0
+specular_mode = 1
+albedo_texture = ExtResource("1_2why8")
